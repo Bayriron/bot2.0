@@ -18,7 +18,7 @@ logger = logging.getLogger(__name__)
 TOKEN = '7627934679:AAENgIwsEZgLGNGNwuq1Ud9foRo6nufbK5o'
 
 # Директория для хранения статистики
-STATS_DIR = 'C:\\Users\\User\\Desktop\\phyton\\stats'
+STATS_DIR = 'C:\\Users\\User\\Desktop\\python\\stats'
 ANSWER_FILE = os.path.join(STATS_DIR, 'answers.json')
 STATS_FILE = os.path.join(STATS_DIR, 'stats.json')
 EXCEL_FILE = os.path.join(STATS_DIR, 'student_stats.xlsx')
